@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cibo4_testgit.test_git_user</name>
+        <suffix>test_git_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>alena.polisuk@cibc.ca</sys_created_by>
+        <sys_created_on>2018-01-29 15:13:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fbd62f44db045740debc9426db9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cibo4_testgit.test_git_user</sys_name>
+        <sys_package display_value="testgit" source="x_cibo4_testgit">4085eb04db045740debc9426db96196f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testgit">4085eb04db045740debc9426db96196f</sys_scope>
+        <sys_update_name>sys_user_role_fbd62f44db045740debc9426db9619c3</sys_update_name>
+        <sys_updated_by>alena.polisuk@cibc.ca</sys_updated_by>
+        <sys_updated_on>2018-01-29 15:13:41</sys_updated_on>
+        <u_comment/>
+    </sys_user_role>
+</record_update>

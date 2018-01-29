@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="test git" max_length="40" name="x_cibo4_testgit_test_git" type="collection">
+        <element display="true" label="testgit" max_length="40" name="testgit" type="string"/>
+    </element>
+</database>

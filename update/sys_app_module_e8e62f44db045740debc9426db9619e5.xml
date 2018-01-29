@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test git">a8e62f44db045740debc9426db9619e2</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test gits</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cibo4_testgit_test_git</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cibo4_testgit.test_git_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>alena.polisuk@cibc.ca</sys_created_by>
+        <sys_created_on>2018-01-29 15:13:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>e8e62f44db045740debc9426db9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test gits</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testgit" source="x_cibo4_testgit">4085eb04db045740debc9426db96196f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="testgit">4085eb04db045740debc9426db96196f</sys_scope>
+        <sys_update_name>sys_app_module_e8e62f44db045740debc9426db9619e5</sys_update_name>
+        <sys_updated_by>alena.polisuk@cibc.ca</sys_updated_by>
+        <sys_updated_on>2018-01-29 15:13:45</sys_updated_on>
+        <timeline_page/>
+        <title>test gits</title>
+        <u_count_color/>
+        <u_count_filter/>
+        <u_count_text_color>White</u_count_text_color>
+        <u_ixl_count_color/>
+        <u_ixl_count_query/>
+        <u_ixl_count_style/>
+        <u_ixl_count_table/>
+        <u_ixl_show_count>false</u_ixl_show_count>
+        <u_refresh_interval/>
+        <u_show_count>false</u_show_count>
+        <u_sort_order/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
